@@ -1,0 +1,29 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "A Burger Logger made with Express using Handlebars, MySQL &  Node.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoharley/burger.git"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "express"
+  ],
+  "author": "Hugo H Pierre-Lys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoharley/burger/issues"
+  },
+  "homepage": "https://github.com/hugoharley/burger#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}
